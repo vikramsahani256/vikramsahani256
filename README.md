@@ -56,13 +56,16 @@ while (developer.isInnovating() && developer.isSolvingProblems()) {
 ---
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikramsahani256&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikramsahani256&layout=compact" alt="GitHub Streak"/>
+</p>
 
----
 
 ## 📬 Get in Touch
 📧 Email: **contact@vikramsahani.in**  
 🌐 Portfolio: [vikramsahani.in](https://vikramsahani.in)  
 💻 Linkedin: [vikramsahani256](https://www.linkedin.com/in/vikramsahani256/)  
 
+<p align="center">
 🔥 *Let's build something amazing together!* 🚀
+</p>
