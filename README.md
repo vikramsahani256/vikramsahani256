@@ -1,20 +1,68 @@
-# 👋 Hey, I'm Vikram Sahani
+<h1 align="center">Hi 👋, I'm Vikram Sahani</h1>
 
-🚀 **Senior Software Engineer | Full-Stack Developer | SaaS Enthusiast**  
-💡 Passionate about **innovation, building scalable solutions, and exploring new technologies**
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramsahani256" alt="vikramsahani" /> </p>-->
 
-## 🌐 About Me
-- 💻 **Senior Software Engineer at Jungleworks**
-- 🎯 Expertise in **Node.js, Next.js, React.js, Tailwind CSS, and MySQL**
-- 🔧 Experienced in **SaaS, Backend Development, and System Architecture**
-- 🏆 Passionate about **team leadership, solving complex problems, and delivering seamless digital experiences**
+<p align="center">
+  <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+</p>
 
-## 🚀 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<h3 align="right">Connect with me :</h3>
+<a href="https://www.linkedin.com/in/vikramsahani256/">
+  <img align="right" alt="Vikram Sahani - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"/>
+</a>
 
-💡 **"Transforming ideas into seamless digital experiences that engage and inspire."** 🚀
+<a href="https://vikramsahani.in">
+  <img align="right" alt="Vikram Sahani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/v.svg"/>
+</a>
+<!--<a href="https://twitter.com/your-twitter">-->
+<!--  <img align="right" alt="Vikram Sahani - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>-->
+<!--</a>-->
+
+<br/>
+<br/>
+
+## 🚀 About Me
+💡 Passionate about innovation and building scalable, high-performance applications.  
+📚 Constantly learning new technologies and improving existing skills.  
+🤝 Open to collaborating on exciting projects.  
+
+```js
+console.log("🚀 Building the future, one commit at a time!");
+
+const developerJourney = {
+  passions: [   
+                "Full-Stack Development", 
+                "Cloud Computing", 
+                "AI & Automation"
+            ]
+};
+
+const techStack = {
+  Backend: ["NodeJs", "MySQL", "Postgress","Express","Redis","MongoDB","SQLite"],
+  Fronend: ["React.js", "Next.js", "CSS","HTML","TailwindCSS"],
+  Languges: ["C", "C++","JavaScript","TypeScript","Python"],
+  cloud: ["AWS", "Cloudflare", "Vercel"],
+  tools: ["Docker", "CI/CD", "Linux","Git","Grafana","Figma"]
+};
+
+while (developer.isInnovating() && developer.isSolvingProblems()) {
+  developer.writeCleanCode();
+  developer.pushToProduction();
+  developer.learnFromFailures();
+  developer.repeatTheProcess();
+}
+```
+
+---
+
+## 📈 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikramsahani256&layout=compact)
+
+---
+
+## 📬 Get in Touch
+📧 Email: **contact@vikramsahani.in**  
+🌐 Portfolio: [vikramsahani.in](https://vikramsahani.in)  
+💻 Linkedin: [vikramsahani256](https://www.linkedin.com/in/vikramsahani256/)  
+
+🔥 *Let's build something amazing together!* 🚀
