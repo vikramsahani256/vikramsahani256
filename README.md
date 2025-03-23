@@ -67,5 +67,5 @@ while (developer.isInnovating() && developer.isSolvingProblems()) {
 💻 Linkedin: [vikramsahani256](https://www.linkedin.com/in/vikramsahani256/)  
 
 <p align="center">
-🔥 *Let's build something amazing together!* 🚀
+🔥 Let's build something amazing together! 🚀
 </p>
