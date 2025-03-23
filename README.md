@@ -3,7 +3,7 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramsahani256" alt="vikramsahani" /> </p>-->
 
 <p align="center">
-  <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+  <br><img src="https://github.com/vikramsahani256/vikramsahani256/blob/main/hadder.gif" width="280px"><br><br>
 </p>
 
 <h3 align="right">Connect with me :</h3>
