@@ -6,14 +6,23 @@
   <br><img src="https://github.com/vikramsahani256/vikramsahani256/blob/main/hadder.gif" width="280px"><br><br>
 </p>
 
-<h3 align="right">Connect with me :</h3>
-<a href="https://www.linkedin.com/in/vikramsahani256/">
-  <img align="right" alt="Vikram Sahani - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"/>
+<h3 align="center">Connect with me</h3>
+
+<p align="center" >
+  
+<a href="https://www.linkedin.com/in/vikramsahani256">
+  <img  alt="Vikram Sahani" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"/>
 </a>
+&nbsp;
+&nbsp;
 
 <a href="https://vikramsahani.in">
-  <img align="right" alt="Vikram Sahani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/v.svg"/>
+  <img  alt="Vikram Sahani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/v.svg"/>
 </a>
+  
+</p>
+
+
 <!--<a href="https://twitter.com/your-twitter">-->
 <!--  <img align="right" alt="Vikram Sahani - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>-->
 <!--</a>-->
