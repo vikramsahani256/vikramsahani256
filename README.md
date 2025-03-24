@@ -5,24 +5,23 @@
   <br><img src="https://github.com/vikramsahani256/vikramsahani256/blob/main/hadder.gif" width="280px"><br> <br>
 </p>
 
-<h3 align="center">Connect with me</h3>
+<table align="center" width="100%">
+  <tr>
+    <td align="center"><h4>5+ Years of Experience</h4></td>
+    <td align="center">
+      <h4>Contact Me:</h4>
+      <a href="https://www.linkedin.com/in/vikramsahani256">
+        <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/>
+      </a>
+      &nbsp;
+      <a href="https://vikramsahani.in">
+        <img alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/v.svg"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center" >
-  
-<a href="https://www.linkedin.com/in/vikramsahani256" >
-  <img  alt="Vikram Sahani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/>
-</a> 
- &nbsp;
 
-<a href="https://vikramsahani.in">
-  <img  alt="Vikram Sahani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/v.svg"/>
-</a>
-  
-</p>
-
-
-
-<h4 align="center"> 5+ Years of Experience  </h4> <br>
 
 
 ## 🚀 About Me
