@@ -76,11 +76,6 @@ while (developer.isInnovating() && developer.isSolvingProblems()) {
 <br/>
 <br/>
 
-## 📬 Get in Touch
-📧 Email: **contact@vikramsahani.in**  
-🌐 Portfolio: [vikramsahani.in](https://vikramsahani.in)  
-💻 Linkedin: [vikramsahani256](https://www.linkedin.com/in/vikramsahani256/)  
-
 <p align="center">
 🔥 Let's build something amazing together! 🚀
 </p>
