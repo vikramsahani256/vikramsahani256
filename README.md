@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vikram Sahani</h1>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramsahani256" alt="vikramsahani" /> </p>-->
 
 <p align="center">
-  <br><img src="https://github.com/vikramsahani256/vikramsahani256/blob/main/hadder.gif" width="280px"><br><br>
+  <br><img src="https://github.com/vikramsahani256/vikramsahani256/blob/main/hadder.gif" width="280px"><br> <br>
 </p>
 
 <h3 align="center">Connect with me</h3>
 
 <p align="center" >
   
-<a href="https://www.linkedin.com/in/vikramsahani256">
-  <img  alt="Vikram Sahani" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"/>
+<a href="https://www.linkedin.com/in/vikramsahani256" >
+  <img  alt="Vikram Sahani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/>
 </a>
-&nbsp;
-&nbsp;
+
+ &nbsp; |  &nbsp;
 
 <a href="https://vikramsahani.in">
   <img  alt="Vikram Sahani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/v.svg"/>
@@ -23,15 +22,9 @@
 </p>
 
 
-<!--<a href="https://twitter.com/your-twitter">-->
-<!--  <img align="right" alt="Vikram Sahani - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>-->
-<!--</a>-->
 
-<br/>
+<h4 align="center"> 5+ Years of Experience  </h4> <br>
 
-<h3 align="center"> 5+ Years of Experience  </h3>
-
-<br/>
 
 ## 🚀 About Me
 💡 Passionate about innovation and building scalable, high-performance applications.  
