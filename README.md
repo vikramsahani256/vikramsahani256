@@ -5,15 +5,11 @@
   <br><img src="https://github.com/vikramsahani256/vikramsahani256/blob/main/hadder.gif" width="280px"><br> <br>
 </p>
 
-<br><br>
+<br>
 
 <div align="center">
 
 
-**5+ Years in Software Development**  
-
-
-## 📬 Contact Me  
 
 <a href="https://www.linkedin.com/in/vikramsahani256" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -27,16 +23,16 @@
 </a>
 
 </div>
-
-
-
-
+<br><br>
 
 
 ## 🚀 About Me
-💡 Passionate about innovation and building scalable, high-performance applications.  
-📚 Constantly learning new technologies and improving existing skills.  
-🤝 Open to collaborating on exciting projects.  
+ 💼 Over 5 years of experience in software development and team management. <br/>
+ 💡 Passionate about innovation and building scalable, high-performance applications. <br/>
+ 📚 Constantly learning new technologies and improving existing skills.  <br/>
+ 🤝 Open to collaborating on exciting projects.  <br/>
+ 
+<br/>
 
 ```js
 console.log("🚀 Building the future, one commit at a time!");
