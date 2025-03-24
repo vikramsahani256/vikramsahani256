@@ -7,9 +7,12 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center"><h4>5+ Years of Experience</h4></td>
     <td align="center">
-      <h4>Contact Me:</h4>
+      <h4>Experience </h4>
+      <p><strong>5+ Years</strong></p>
+    </td>
+    <td align="center">
+      <h4>Contact Me </h4>
       <a href="https://www.linkedin.com/in/vikramsahani256">
         <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/>
       </a>
@@ -20,6 +23,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
