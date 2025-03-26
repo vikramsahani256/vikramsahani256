@@ -31,7 +31,7 @@
 
 
 ## 🚀 About Me
- 💼 Over 5 years of experience in software development and team management. <br/>
+ 💼 Over 5+ years of experience in software development and team management. <br/>
  💡 Passionate about innovation and building scalable, high-performance applications. <br/>
  📚 Constantly learning new technologies and improving existing skills.  <br/>
  🤝 Open to collaborating on exciting projects.  <br/>
