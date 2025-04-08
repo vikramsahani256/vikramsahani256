@@ -15,14 +15,14 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
-<a href="https://vikramsahani.in" target="_blank">
+<a href="https://vikramsahani.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
 </a> &nbsp;
-<a href="mailto:contact@vikramsahani.in">
+<a href="mailto:contact@vikramsahani.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a> &nbsp;
 
-<a href="https://resume.vikramsahani.in/" target="_blank">
+<a href="https://resume.vikramsahani.com/" target="_blank">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=read-the-docs" alt="Resume Badge">
 </a>
 
